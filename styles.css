@@ -412,3 +412,7 @@ input.codeshard {
 .hidden {
 	visibility: hidden;
 }
+
+.assignment-timer {
+	float:left;
+}
